@@ -21,6 +21,7 @@ import ProductDetail from './components/pages/collections/productDetail';
 import { porcelain, quartz } from './constants/data';
 import ProductError from './components/pages/collections/productError';
 import Showcase from './components/pages/showcase/showcase';
+import { Analytics } from '@vercel/analytics/react';
 
 const router = createBrowserRouter([
   {
@@ -96,6 +97,7 @@ const router = createBrowserRouter([
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <RouterProvider router={router} />
+    <Analytics/>
   </React.StrictMode>,
 )
 
