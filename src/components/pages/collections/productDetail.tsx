@@ -17,7 +17,7 @@ export default function ProductDetail() {
 
   return (
     <>
-      <Hero img={`/material/${imgUrl(detail.name)}.png`} isBackdrop>{detail.code}</Hero>
+      <Hero img={`/material/${imgUrl(detail.name)}.png`} isBackdrop>{detail.name}</Hero>
       <div className="m-auto max-w-[1200px] w-full p-4">
         <div className="pt-12 pb-16">
           <h3 className="text-2xl text-center mb-4">Specifications</h3>
@@ -29,8 +29,8 @@ export default function ProductDetail() {
               <div>{detail.code}</div>
               <div>{detail.name}</div>
               <div>{detail.series}</div>
-              {detail.style ? ( <div>{detail.style}</div>) : null}
               <div>{detail.size.split(',').map(i => <div key={i}>{i}</div>)}</div>
+              {detail.style ? ( <div>{detail.style}</div>) : null}
             </div>
           </div>
         </div>
