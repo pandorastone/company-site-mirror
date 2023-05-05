@@ -36,7 +36,8 @@ export const info = {
   address: "Unit 3, 795 Middlefield Rd, Scarborough, ON M1V 2T9",
   email: "pandorastoneinc@gmail.com",
   phone: "+1-416-291-3888",
-  openHours: "10:00 am - 6:00 pm"
+  openHours: "10:00 am - 6:00 pm",
+  openHoursSaturday: "10:00 am - 5:00 pm"
 }
 
 export const quartzFeatures = [

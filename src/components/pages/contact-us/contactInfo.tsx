@@ -15,8 +15,8 @@ export default function ContactInfo() {
       <div className="mb-4 flex items-start gap-4">
         <RiSuitcaseLine />
         <div>
-          <p>Opening hours</p>
-          <p>{info.openHours}</p>
+          <p>Monday - Friday: {info.openHours}</p>
+          <p>Saturday: {info.openHoursSaturday}</p>
         </div>
       </div>
       <div>

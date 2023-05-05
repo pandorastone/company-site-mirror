@@ -11,7 +11,7 @@ export default function ProductDetail() {
 
   function Gallery({ list }: { list: string[] }) {
     return (
-      <div>{list.map(i => (<img key={i} src={`/showcase/${i}.png`} alt="gallery" loading="lazy" className="m-auto" />))}</div>
+      <div>{list.map(i => (<img key={i} src={i} alt="gallery" loading="lazy" className="m-auto mb-8 last:mb-0" />))}</div>
     )
   }
 
@@ -34,7 +34,7 @@ export default function ProductDetail() {
             </div>
           </div>
         </div>
-        <Gallery list={[imgUrl(detail.name)]} />
+        <Gallery list={[`/material/${imgUrl(detail.name)}.png`, `/showcase/${imgUrl(detail.name)}.png`]} />
       </div>
     </>
   )
