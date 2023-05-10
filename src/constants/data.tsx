@@ -115,157 +115,157 @@ export const quartzSeries = ["Neo", "Velato", "Calacatta", "High Design"]
 
 export const quartz = [
   {
-    code: "PDR-5199",
+    code: "5199",
     name: "Ontario",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-5260",
+    code: "5260",
     name: "Andromeda",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-5262",
+    code: "5262",
     name: "Palm Shade",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-5265",
+    code: "5265",
     name: "Bianco Spider",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-5266",
+    code: "5266",
     name: "Etherum",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-5267",
+    code: "5267",
     name: "Calacatta Lusso",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-5268",
+    code: "5268",
     name: "Calacatta Finta",
     series: "Neo",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4265",
+    code: "4265",
     name: "Carrara Dove",
     series: "Velato",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4267",
+    code: "4267",
     name: "Blue Bahia",
     series: "Velato",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4227",
+    code: "4227",
     name: "Dream Blue",
     series: "Velato",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4271",
+    code: "4271",
     name: "Black Tempal",
     series: "Velato",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4161LQ",
+    code: "4161LQ",
     name: "Calacatta Wave",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4281",
+    code: "4281",
     name: "Calacatta Nuvo",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-1630",
+    code: "1630",
     name: "Calacatta Verona",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4275",
+    code: "4275",
     name: "Statuario Gold",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4258",
+    code: "4258",
     name: "Glacier",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4239",
+    code: "4239",
     name: "Empira White",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4279",
+    code: "4279",
     name: "Calacatta Bianco",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4250",
+    code: "4250",
     name: "Calacatta Oro",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4277",
+    code: "4277",
     name: "Bianco Ibiza",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4173",
+    code: "4173",
     name: "Nero Marquina",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-6898",
+    code: "6898",
     name: "Snowdon",
     series: "Calacatta",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4285",
+    code: "4285",
     name: "Bianco Elegante",
     series: "High Design",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4257",
+    code: "4257",
     name: "Rolex White",
     series: "High Design",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4251",
+    code: "4251",
     name: "Rolex Black",
     series: "High Design",
     size: "1600 x 3200 x 20/30mm"
   },
   {
-    code: "PDR-4196",
+    code: "4196",
     name: "Rugged Concrete",
     series: "High Design",
     size: "1600 x 3200 x 20/30mm"
