@@ -276,350 +276,350 @@ export const porcelainSeries = ["Marble Stone", "Luxury Stone", "Plain Stone"]
 
 export const porcelain = [
   {
-    code: "XS163212M1013",
+    code: "M1013",
     name: "Snow Plus",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "IXS163212M1012",
+    code: "M1012",
     name: "Polar Glacier",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "DKW163212M1003",
+    code: "M1003",
     name: "Ink White",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "XS163212R1014",
+    code: "R1014",
     name: "Rum White",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Rough Matt"
   },
   {
-    code: "IW163212M5048",
+    code: "M5048",
     name: "Avian White",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "ISW163212M1912",
+    code: "M1912",
     name: "Snow White",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "TW163212M4013",
+    code: "M4013",
     name: "Concordia",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm,1600 x 3200 x 6mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "IBW163212M3061",
+    code: "M3061",
     name: "Travertine",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "IBW163212M3010",
+    code: "M3010",
     name: "Snow X",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "IBW163212M3021",
+    code: "M3021",
     name: "Brazilianite",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "IXS163212M1028",
+    code: "M1028",
     name: "Rosa White",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "XS122606M1016",
+    code: "M1016",
     name: "Raya",
     series: "Marble Stone",
     size: "1200 x 2600 x 6mm",
     style: "Soft Matt"
   },
   {
-    code: "ITW122606M4029",
+    code: "M4029",
     name: "Verona White",
     series: "Marble Stone",
     size: "1200 x 2600 x 6mm",
     style: "Soft Matt"
   },
   {
-    code: "ITW163212M4010",
+    code: "M4010",
     name: "Sino Calacatta",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "IXS163206G1027",
+    code: "G1027",
     name: "Tortona White",
     series: "Marble Stone",
     size: "1600 x 4200 x 12mm",
     style: "Polished"
   },
   {
-    code: "XS122606M1020",
+    code: "M1020",
     name: "Emerald Ice",
     series: "Marble Stone",
     size: "1200 x 2600 x 6mm",
     style: "Soft Matt"
   },
   {
-    code: "IBW163212M3015",
+    code: "M3015",
     name: "Iceland",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "ISVB163212M1920",
+    code: "M1920",
     name: "Laurent Gold",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "ITVB163212V4053",
+    code: "V4053",
     name: "Titan Black",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "ISVB163212V1926",
+    code: "V1926",
     name: "Carmen Black",
     series: "Marble Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "IW163212G5055",
+    code: "G5055",
     name: "Powder Jade",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IW163212V5053",
+    code: "V5053",
     name: "Hilton Rose",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Fine Matt"
   },
   {
-    code: "IW163212G5052",
+    code: "G5052",
     name: "Natta",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IW163212G5049",
+    code: "G5049",
     name: "Bogurenli",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IJW163212G6023",
+    code: "G6023",
     name: "Jadeite",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IDKW163212G3005",
+    code: "G3005",
     name: "Prada Green",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IW163212G5056",
+    code: "G5056",
     name: "Coral Blue",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IW163212M5050",
+    code: "M5050",
     name: "Sino Calacatta Gold",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1200 x 2600 x 6mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "IW163212M5045",
+    code: "M5045",
     name: "Kanes Gold",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft matt / Polished"
   },
   {
-    code: "IW163212M5047",
+    code: "M5047",
     name: "Romanian White",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "IDKW163212G5001",
+    code: "G5001",
     name: "Karakatatin",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IDKW163212G5002",
+    code: "G5002",
     name: "Calacatta Borghini",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IBW163212M3012",
+    code: "M3012",
     name: "Arabescato",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "BW163212M3011",
+    code: "M3011",
     name: "Arabesque",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1600 x 3200 x 6 mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "SW163212M1905",
+    code: "M1905",
     name: "Golden White",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "XS163212M1015",
+    code: "M1015",
     name: "Luxury White",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1200 x 2600 x 6mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "ITW163212G4023",
+    code: "G4023",
     name: "Monet Gold",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1200 x 2600 x 6mm",
     style: "Polished"
   },
   {
-    code: "ITW163212G4015",
+    code: "G4015",
     name: "Top Platinum",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IBW163212G3017",
+    code: "G3017",
     name: "Calacatta Green",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1200 x 2600 x 6mm",
     style: "Polished"
   },
   {
-    code: "XS122606G1023",
+    code: "G1023",
     name: "Blue Phantom",
     series: "Luxury Stone",
     size: "1200 x 2600 x 6mm",
     style: "Polished"
   },
   {
-    code: "ITW163212G4020",
+    code: "G4020",
     name: "Peacock",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1200 x 2600 x 6mm",
     style: "Polished"
   },
   {
-    code: "TS122606G4056",
+    code: "G4056",
     name: "Firn",
     series: "Luxury Stone",
     size: "1200 x 2600 x 6mm",
     style: "Polished"
   },
   {
-    code: "IBW163212M3003",
+    code: "M3003",
     name: "Pandora",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm,1200 x 2600 x 6mm",
     style: "Soft Matt / Polished"
   },
   {
-    code: "XS122606M1022",
+    code: "M1022",
     name: "Everest",
     series: "Luxury Stone",
     size: "1200 x 2600 x 6mm",
     style: "Soft Matt"
   },
   {
-    code: "ITW163206G4025",
+    code: "G4025",
     name: "Seattle",
     series: "Luxury Stone",
     size: "1600 x 3200 x 6mm",
     style: "Polished"
   },
   {
-    code: "XS122606M1029",
+    code: "M1029",
     name: "Nero",
     series: "Luxury Stone",
     size: "1200 x 2600 x 6mm",
     style: "Soft Matt"
   },
   {
-    code: "IVB163212M5046",
+    code: "M5046",
     name: "Castor Brown",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Soft Matt"
   },
   {
-    code: "IW163212G5054",
+    code: "G5054",
     name: "Mowu White",
     series: "Luxury Stone",
     size: "1600 x 3200 x 12mm",
     style: "Polished"
   },
   {
-    code: "IXVD122606M1026",
+    code: "M1026",
     name: "Saloran Grey",
     series: "Plain Stone",
     size: "1200 x 2600 x 6mm",
     style: "Soft Matt"
   },
   {
-    code: "IXVD163212M1032",
+    code: "M1032",
     name: "Berka Grey",
     series: "Plain Stone",
     size: "1600 x 3200 x 12mm",
