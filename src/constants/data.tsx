@@ -8,27 +8,27 @@ export const companyIntro= "Pandora Stone Inc is committed to provide sintered s
 export const list = [
   {
     img: "/material/avian-white.png",
-    link: "collections/quartz/ppq-5199"
+    link: "collections/porcelain/m5048"
   },
   {
     img: "/material/seattle.png",
-    link: "collections/porcelain/itw163206g4025"
+    link: "collections/porcelain/g4025"
   },
   {
     img: "/material/prada-green.png",
-    link: "collections/porcelain/idkw163212g3005"
+    link: "collections/porcelain/g3005"
   },
   {
     img: "/material/peacock.png",
-    link: "collections/porcelain/itw163212g4020"
+    link: "collections/porcelain/g4020"
   },
   {
     img: "/material/titan-black.png",
-    link: "collections/porcelain/itvb163212v4053"
+    link: "collections/porcelain/v4053"
   },
   {
     img: "/material/powder-jade.png",
-    link: "collections/porcelain/iw163212g5055"
+    link: "collections/porcelain/g5055"
   }
 ]
 

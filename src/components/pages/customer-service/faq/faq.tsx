@@ -1,3 +1,4 @@
+import Head from "../../../common/Head";
 import Accordion from "../../../common/accordion";
 
 export default function FAQ() {
@@ -30,9 +31,10 @@ export default function FAQ() {
     content: "They are very simple to care for, using only soap, water, and a soft cloth."
   }
   ]
-  
+
   return (
     <>
+      <Head title="Frequently Asked Questions | Pandora Stone" desc="Pandora Stone Frequently Asked Questions" />
       <div className="m-auto w-[1200px] max-w-full px-4 py-12">
         <div className="text-2xl uppercase mb-4"><h2>Frequently Asked Questions</h2></div>
         <div className="flex flex-col">{questions.map((i, idx) => (

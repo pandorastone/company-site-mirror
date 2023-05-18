@@ -1,6 +1,7 @@
 import { useLoaderData } from "react-router-dom"
 import Hero from "../../common/hero"
 import { Product } from "../../../types/interfaces"
+import Head from "../../common/Head"
 
 export default function ProductDetail() {
   const detail = useLoaderData() as Product
@@ -17,6 +18,7 @@ export default function ProductDetail() {
 
   return (
     <>
+      <Head title={`${detail.name} | Pandora Stone`} desc={`${detail.name} - Pandora Stone Collections`} />
       <Hero img={`/material/${imgUrl(detail.name)}.png`} isBackdrop>{detail.name}</Hero>
       <div className="m-auto max-w-[1200px] w-full p-4">
         <div className="pt-12 pb-16">
@@ -30,7 +32,7 @@ export default function ProductDetail() {
               <div>{detail.name}</div>
               <div>{detail.series}</div>
               <div>{detail.size.split(',').map(i => <div key={i}>{i}</div>)}</div>
-              {detail.style ? ( <div>{detail.style}</div>) : null}
+              {detail.style ? (<div>{detail.style}</div>) : null}
             </div>
           </div>
         </div>

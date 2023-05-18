@@ -4,6 +4,7 @@ import { companyIntro, porcelainFeatures, quartzFeatures } from "../../../consta
 import bg from "../../../assets/about-bg.jpg"
 import Tab from "../../common/tab"
 import { useMediaQuery } from "../../../hooks"
+import Head from "../../common/Head"
 
 const TabChildren = ({ list, perRow }: {
   list: {
@@ -32,6 +33,7 @@ const TabChildren = ({ list, perRow }: {
 export default function About() {
   return (
     <>
+      <Head title="About | Pandora Stone" desc="About Pandora Stone"/>
       <Hero img={bg}>
         About Us
       </Hero>

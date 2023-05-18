@@ -22,6 +22,7 @@ import { porcelain, quartz } from './constants/data';
 import ProductError from './components/pages/collections/productError';
 import Showcase from './components/pages/showcase/showcase';
 import { Analytics } from '@vercel/analytics/react';
+import { HelmetProvider } from 'react-helmet-async';
 
 const router = createBrowserRouter([
   {
@@ -93,14 +94,11 @@ const router = createBrowserRouter([
   },
 ]);
 
-////remove to disable effect hooks running twice
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
-    <Analytics/>
+    <HelmetProvider>
+      <RouterProvider router={router} />
+      <Analytics/>
+    </HelmetProvider>
   </React.StrictMode>,
 )
-
-// ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-//     <RouterProvider router={router} />
-// )
